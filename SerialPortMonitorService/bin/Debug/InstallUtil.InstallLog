@@ -1,0 +1,31 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the d:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\bin\Debug\SerialPortMonitorService.exe assembly's progress.
+The file is located at d:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\bin\Debug\SerialPortMonitorService.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the d:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\bin\Debug\SerialPortMonitorService.exe assembly's progress.
+The file is located at d:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\bin\Debug\SerialPortMonitorService.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the d:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\bin\Debug\SerialPortMonitorService.exe assembly's progress.
+The file is located at d:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\bin\Debug\SerialPortMonitorService.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the d:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\bin\Debug\SerialPortMonitorService.exe assembly's progress.
+The file is located at d:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\bin\Debug\SerialPortMonitorService.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.

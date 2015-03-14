@@ -1,0 +1,9 @@
+D:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\obj\x86\Debug\SerialPortMonitorService.SerialPortMonitorService.resources
+D:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\bin\Debug\SerialPortMonitorService.exe
+D:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\bin\Debug\SerialPortMonitorService.pdb
+D:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\obj\x86\Debug\SerialPortMonitorService.ServiceInstaller.resources
+D:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\obj\x86\Debug\SerialPortMonitorService.exe
+D:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\obj\x86\Debug\SerialPortMonitorService.pdb

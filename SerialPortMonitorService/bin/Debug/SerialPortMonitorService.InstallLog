@@ -1,0 +1,26 @@
+﻿Installing assembly 'd:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\bin\Debug\SerialPortMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\bin\Debug\SerialPortMonitorService.InstallLog
+   assemblypath = d:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\bin\Debug\SerialPortMonitorService.exe
+Installing service SerialPortMonitorService...
+Service SerialPortMonitorService has been successfully installed.
+Creating EventLog source SerialPortMonitorService in log Application...
+Committing assembly 'd:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\bin\Debug\SerialPortMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\bin\Debug\SerialPortMonitorService.InstallLog
+   assemblypath = d:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\bin\Debug\SerialPortMonitorService.exe
+Installing assembly 'd:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\bin\Debug\SerialPortMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\bin\Debug\SerialPortMonitorService.InstallLog
+   assemblypath = d:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\bin\Debug\SerialPortMonitorService.exe
+Installing service SerialPortMonitorService...
+Creating EventLog source SerialPortMonitorService in log Application...
+Rolling back assembly 'd:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\bin\Debug\SerialPortMonitorService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = d:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\bin\Debug\SerialPortMonitorService.InstallLog
+   assemblypath = d:\CSharp\Projects\SerialPortMonitorService\SerialPortMonitorService\bin\Debug\SerialPortMonitorService.exe
+Restoring event log to previous state for source SerialPortMonitorService.
